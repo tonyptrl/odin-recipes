@@ -1,0 +1,26 @@
+* {
+  width: 650px;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.recipes {
+  background-color: lightgoldenrodyellow;
+  width: 500px;
+}
+
+.recipe-box {
+  background-color: white;
+  width: 100px;
+  padding: 50px;
+  margin: 20px;
+  text-align: center;
+  font-size: 25px;
+  border: solid;
+  border-color: blanchedalmond;
+  display: inline-block;
+}
+
+.recipe-subtitle {
+  background-color: lightgoldenrodyellow;
+  padding: 5px;
+}
